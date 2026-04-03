@@ -1,39 +1,93 @@
-# 👋 Hi, I'm 小黄
+<h1 align="center">
+  <a href="https://github.com/dalaodeyitian">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hello+%F0%9F%91%8B+I'm+%E5%B0%8F%E9%BB%84;A+Passionate+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
-> A developer who loves building practical tools and systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dalaodeyitian&style=flat-square&color=58A6FF" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Practical%20Tools-blue?style=flat-square" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```
+  ╔══════════════════════════════════════╗
+  ║  🔧 Builder of practical systems     ║
+  ║  🐍 Python enthusiast                ║
+  ║  🌐 Full-stack explorer              ║
+  ║  ☕ Turning coffee into code          ║
+  ╚══════════════════════════════════════╝
+```
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,astro,git,linux,vscode&theme=light&perline=8" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![小黄的 GitHub stats](https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=default&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=compact&hide_border=true)
-
----
-
-### 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| [jfxt](https://github.com/dalaodeyitian/jfxt) | 行政缴费系统 — Administrative payment management system |
-
----
-
-### 📫 Contact
-
-- Email: 3056178883@qq.com
-- GitHub: [@dalaodeyitian](https://github.com/dalaodeyitian)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalaodeyitian&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117" width="95%" />
+</p>
 
 ---
 
-⭐️ From [dalaodeyitian](https://github.com/dalaodeyitian)
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dalaodeyitian/jfxt">
+        <img src="https://img.shields.io/badge/Project-jfxt-blue?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>行政缴费系统 — Administrative Payment System</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="mailto:3056178883@qq.com">
+    <img src="https://img.shields.io/badge/Email-3056178883%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dalaodeyitian">
+    <img src="https://img.shields.io/badge/GitHub-dalaodeyitian-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
+</p>
