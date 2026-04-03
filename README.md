@@ -51,14 +51,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
