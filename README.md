@@ -51,22 +51,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dalaodeyitian/jfxt">
-        <img src="https://img.shields.io/badge/Project-jfxt-blue?style=for-the-badge" />
-      </a>
-      <br/>
-      <sub>行政缴费系统 — Administrative Payment System</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 Connect
 
 <p align="center">
