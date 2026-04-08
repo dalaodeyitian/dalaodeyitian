@@ -90,33 +90,6 @@ class Developer:
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏛️ [乡镇减负系统](https://github.com/ZONGZHI2026/jcjf)
-> 基于 PySide6 的政务办公桌面应用
-> - OA 办公 · 即时通讯 · AI 助手
-> - WireGuard VPN · 自动更新
-> 
-> `Python` `PySide6` `Socket.IO` `WireGuard`
-
-</td>
-<td width="50%">
-
-#### 📦 [行政缴费系统](https://github.com/dalaodeyitian/jfxt)
-> 乡镇行政缴费一体化管理平台
-> - 缴费管理 · 报表导出 · 数据统计
-> - 多级审核 · 权限管理
->
-> `Python` `PySide6` `MySQL` `Pandas`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 📊 GitHub Analytics
