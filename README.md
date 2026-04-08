@@ -1,112 +1,68 @@
-<!-- Profile README for dalaodeyitian -->
+<!-- 🎨 dalaodeyitian Profile README — Colorful & Personal -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20%E5%B0%8F%E9%BB%84&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20Enthusiast%20%7C%20System%20Builder&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9B59B6&height=220&section=header&text=%E5%B0%8F%E9%BB%84%20%F0%9F%92%9B&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=32&desc=%F0%9F%90%8D%20Python%20%7C%20%F0%9F%8E%A8%20Frontend%20%7C%20%E2%9A%99%EF%B8%8F%20Systems&descSize=18&descAlignY=52" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dalaodeyitian&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-System%20Development-58A6FF?style=for-the-badge&logo=awesome-lists&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building-58A6FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=dalaodeyitian&style=for-the-badge&color=FF6B6B&label=%F0%9F%91%80+VISITORS" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-Building%20Real%20Things-FFD93D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Status-Coding%20Everyday-6BCB77?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%98%95%20Fuel-Coffee-9B59B6?style=for-the-badge" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="left" /> About Me
+### <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" align="left" /> 码上人生
 
 ```python
-class Developer:
+#!/usr/bin/env python3
+"""小黄 — 一个爱折腾的开发者"""
+
+class Xiaohuang:
     def __init__(self):
-        self.name = "小黄"
-        self.role = "Full-Stack Developer"
-        self.location = "China 🇨🇳"
-        self.language = ["Python", "JavaScript", "TypeScript"]
-        self.tools = ["PySide6", "Vue.js", "FastAPI", "MySQL", "Neo4j"]
-        self.current_focus = "政务办公系统 & 基层减负"
-        self.fun_fact = "☕ Coffee → Code → Repeat"
-    
-    def get_motto(self):
-        return "代码改变世界，一行一行来"
+        self.pronouns = "他 / He"
+        self.languages = ["Python 🐍", "JavaScript ⚡", "TypeScript 🔷", "SQL 🗃️"]
+        self.frameworks = ["PySide6", "FastAPI", "Vue.js", "Socket.IO"]
+        self.databases  = ["MySQL", "Neo4j", "Redis"]
+        self.tools      = ["Git", "Docker", "WireGuard", "Linux"]
+        self.hobbies    = ["写代码", "喝咖啡 ☕", "研究新技术", "打游戏 🎮"]
+        self.motto      = "代码改变世界，一行一行来 🚀"
+
+    def current_focus(self) -> str:
+        return "政务办公系统 · 基层减负 · 全栈开发"
+
+    def fun_fact(self) -> str:
+        return "Bug 写得比功能快，但修复得更快 💪"
 ```
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🎨 技术调色板
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>
-  <sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br>
-  <sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>
-  <sub><b>HTML5</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>
-  <sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /><br>
-  <sub><b>Vue.js</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>
-  <sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br>
-  <sub><b>Linux</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>
-  <sub><b>Git</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>
-  <sub><b>Docker</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /><br>
-  <sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" /><br>
-  <sub><b>Neovim</b></sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,vue,fastapi,mysql,git,linux,docker,neovim,github,astro&theme=dark&perline=7" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dalaodeyitian?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=solarized-dark&hide_border=false&bg_color=FF6B6B&title_color=ffffff&icon_color=FFD93D&text_color=ffffff&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=ffffff" width="47%" />
+  </a>
+  <a href="https://github.com/dalaodeyitian?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=6BCB77&stroke=ffffff&ring=FFD93D&fire=FF6B6B&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" width="47%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=compact&theme=solarized-dark&hide_border=false&bg_color=4D96FF&title_color=ffffff&text_color=ffffff&langs_count=8&border_radius=10&border_color=ffffff" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dalaodeyitian&theme=juicyfresh&no-frame=false&no-bg=false&column=4&margin-w=8&border_radius=10" width="47%" />
+</p>
 
 ---
 
----
+### 🌈 贡献热力图
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&line_height=30" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dalaodeyitian&theme=discordx&no-frame=true&no-bg=true&column=4&margin-w=10" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalaodeyitian&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb" width="95%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalaodeyitian&theme=redical&hide_border=false&bg_color=1a1a2e&color=FF6B6B&line=FFD93D&point=6BCB77&area=true&area_color=FF6B6B&title_color=ffffff" width="95%" />
+</p>
 
 ---
 
@@ -120,24 +76,28 @@ class Developer:
 
 ---
 
-### 📫 Let's Connect
+### 💬 随机名言
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%F0%9F%90%8D%20Python%20is%20executable%20pseudocode;%F0%9F%92%BD%20First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code;%E2%98%95%20Coffee%20is%20a%20programmer's%20best%20friend;%F0%9F%9A%80%20Keep%20coding%2C%20keep%20growing" alt="Typing SVG" />
+</p>
+
+---
+
+### 📫 找到我
 
 <p align="center">
   <a href="mailto:3056178883@qq.com">
-    <img src="https://img.shields.io/badge/Email-3056178883%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-3056178883%40qq.com-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/dalaodeyitian">
-    <img src="https://img.shields.io/badge/GitHub-dalaodeyitian-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%A4%20GitHub-dalaodeyitian-4D96FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/ZONGZHI2026">
-    <img src="https://img.shields.io/badge/Org-ZONGZHI2026-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Org-ZONGZHI2026-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=400&height=30&lines=%22The+best+way+to+predict+the+future+is+to+create+it.%22" alt="Typing SVG" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=100&section=footer" />
