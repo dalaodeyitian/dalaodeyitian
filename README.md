@@ -1,110 +1,130 @@
-<!-- ⚡ dalaodeyitian Profile README — Cyberpunk Neon Edition -->
+<!-- dalaodeyitian — abstract edition v∞ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:0F084B,50:5B2C9E,75:FF2A6D,100:05D9E8&height=220&section=header&text=%E5%B0%8F%E9%BB%84%20%E2%9A%A1&fontSize=45&fontColor=05D9E8&animation=twinkling&fontAlignY=32&desc=%F0%9F%94%8C%20Cyberpunk%20Developer%20%7C%20Neon%20Coder&descSize=18&descAlignY=52" />
+```
+   _____.___.  __  .__                     __         .__  
+  \__  |   |__|/  |_|  |__   ____ ___  ____/  |______  |  | 
+   /   |   \  \   __\  |  \_/ __ \\  \/  /\   __\__  \ |  | 
+   \____   |  ||  | |   Y  \  ___/ >    <  |  |  / __ \|  |__
+   / ______|/ |__| |___|  /\___  >__/\_ \ |__| (____  /____/
+   \/                    \/     \/      \/          \/      
+```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dalaodeyitian&style=for-the-badge&color=FF2A6D&label=%F0%9F%91%81%EF%B8%8F+VISITORS" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20Jacked-In-Online-05D9E8?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%80%20Mode-Hacking-FF2A6D?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/%E2%98%84%EF%B8%8F%20Fuel-Synth_Coffee-5B2C9E?style=for-the-badge&labelColor=0D0221" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:1a1a2e,100:16213e&height=180&section=header&fontSize=0&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <code>01001000 01100101 01101100 01101100 01101111</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/...-loading-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/undefined-is-not-a-function-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/reality.exe-has-stopped-000?style=flat-square" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" align="left" /> // SYSTEM.INIT
-
-```python
-#!/usr/bin/env python3
-"""小黄 — NetRunner @ Night City"""
-
-class Xiaohuang:
-    """
-    ╔══════════════════════════════════════╗
-    ║  WARNING: UNAUTHORIZED ACCESS       ║
-    ║  CLEARANCE: FULL                    ║
-    ╚══════════════════════════════════════╝
-    """
-    def __init__(self):
-        self.handle     = "小黄 ⚡"
-        self.alignment  = "Chaotic Builder"
-        self.languages  = ["Python 🐍", "JavaScript ⚡", "TypeScript 🔷", "SQL 🗃️"]
-        self.frameworks = ["PySide6", "FastAPI", "Vue.js", "Socket.IO"]
-        self.databases  = ["MySQL", "Neo4j", "Redis"]
-        self.tools      = ["Git", "Docker", "WireGuard", "Linux"]
-        self.implants   = ["写代码", "喝合成咖啡 ☕", "破解新技术", "赛博游戏 🎮"]
-        self.protocol   = "代码即力量，一行一行入侵世界 🚀"
-
-    def current_mission(self) -> str:
-        return "政务系统 · 数字基建 · 全栈武装"
-
-    def sys_status(self) -> str:
-        return "BUG 写得比功能快，但 PATCH 更快 💀"
+```
+while(alive) {
+    eat();
+    sleep();
+    code();
+    // TODO: everything
+}
 ```
 
 ---
 
-### ⚡ TECH MATRIX
+### 💀
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,vue,fastapi,mysql,git,linux,docker,neovim,github&theme=dark&perline=7" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dalaodeyitian?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=5B2C9E" width="47%" />
-  </a>
-  <a href="https://github.com/dalaodeyitian?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=0D0221&stroke=5B2C9E&ring=FF2A6D&fire=05D9E8&currStreakLabel=D1F7FF&sideNums=05D9E8&sideLabels=D1F7FF&dates=FF2A6D&border_radius=10" width="47%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=compact&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8&border_radius=10&border_color=5B2C9E" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dalaodeyitian&theme=cyberpunk&no-frame=false&no-bg=false&column=4&margin-w=8&border_radius=10" width="47%" />
-</p>
-
----
-
-### 🔮 NEURAL ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalaodeyitian&theme=react-dark&hide_border=false&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=5B2C9E&area=true&area_color=5B2C9E&title_color=D1F7FF" width="95%" />
+  <pre>
+  ┌─────────────────────────────────────────┐
+  │  ERROR 0x80000000: Meaning not found   │
+  │                                         │
+  │  [_RETRY]  [IGNORE]  [▓▓▓▓░░░░ 47%]   │
+  │                                         │
+  │  > The answer is not 42. It's null.     │
+  │                                         │
+  │  ╔═══════════════════════════════════╗   │
+  │  ║  ⚠ YOUR SESSION HAS EXPIRED     ║   │
+  │  ╚═══════════════════════════════════╝   │
+  └─────────────────────────────────────────┘
+  </pre>
 </p>
 
 ---
 
-### 🐍 DATA STREAM
+### 🧠
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" width="100%" />
-</picture>
+```c
+void* whoami() {
+    return NULL; // still searching
+}
+
+int main() {
+    while(whoami() == NULL) {
+        try(new_things);
+        if(enlightened) break;
+        coffee++;
+    }
+    return 0; // or 1, nobody knows
+}
+```
 
 ---
 
-### ⚡ NEURAL TRANSMISSION
+### 📊
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1500&color=05D9E8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%E2%9A%A1%20The%20future%20is%20already%20here;%F0%9F%92%80%20Code%20is%20law%20in%20Cyberpunk;%E2%98%95%20Synthetic%20coffee%20fuels%20the%20machine;%F0%9F%94%8C%20Jack%20in%2C%20tune%20out%2C%20hack%20on" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=merko&hide_title=true&hide_border=true&bg_color=00000000&title_color=333&icon_color=333&text_color=555&line_height=25" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalaodeyitian&layout=donut&theme=merko&hide_title=true&hide_border=true&bg_color=00000000&title_color=333&text_color=555&langs_count=6&size_weight=0.5&duration_weight=0.5" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=true&background=00000000&stroke=222&ring=222&fire=333&currStreakLabel=333&sideNums=333&sideLabels=333&dates=444&border_radius=0" width="45%" />
 </p>
 
 ---
 
-### 📡 CONNECT
+### 🐍
 
 <p align="center">
-  <a href="mailto:3056178883@qq.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A1%20Signal-3056178883%40qq.com-FF2A6D?style=for-the-badge&labelColor=0D0221&logoColor=white" />
-  </a>
-  <a href="https://github.com/dalaodeyitian">
-    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F%20NetRunner-dalaodeyitian-05D9E8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" />
-  </a>
-  <a href="https://github.com/ZONGZHI2026">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Corp-ZONGZHI2026-5B2C9E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,25:FF2A6D,50:5B2C9E,75:0F084B,100:0D0221&height=100&section=footer" />
+### 🔮
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=2000&color=444&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=rm+-rf+/meaning;if+(true)+{break+reality};echo+%22%22+%3E+/dev/null;sleep+forever+%7C%7C+exit+1" alt="" />
+</p>
+
+---
+
+```
+ _
+(_)
+ _ _ __ ___   __ _  __ _ _ __ ___   ___ 
+| | '_ ` _ \ / _` |/ _` | '_ ` _ \ / _ \
+| | | | | | | (_| | (_| | | | | | |  __/
+|_|_| |_| |_|\__,_|\__, |_| |_| |_|\___|
+                    __/ |
+                   |___/
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0a0a0a,100:000000&height=80&section=footer" />
+</p>
+
+<p align="center">
+  <sub><code>© 2026 · all rights reserved · no rights reserved · whatever · 🤷</code></sub>
+</p>
