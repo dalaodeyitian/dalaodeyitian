@@ -1,355 +1,320 @@
-<!-- ████ S//YS//M O//VERLOAD ████ WARNING: ████ -->
+`[SYS.BREACH] ███████████████████████░░░░░ 78% COMPLETE`
 
+> ⚠ あなたは何を見ているんですか？ why are you still reading this? 빨리 닫아
+
+<p align="center"><code>0xF4 0xE9 0xBA 0xAE ▓▓░ ████ H€LLØ በል ትርጉም የለም</code></p>
+
+```
+01001001 00100000 01100001 01101101
+S.O.S. ─── ╳╳╳ ─── 4.7.3
+_réveillez-vous_  --/--/-- 
+ Nichts zu sehen hier   ← я тоже так думаю
+  ☢ СИСТЕМА ПОВРЕЖДЕНА ☢
+```
+
+<img src="https://img.shields.io/badge/¿Qué_es_esto?-Nadie_sabe-FF2A6D?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/何もない-404-05D9E8?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/ΠΟΥ_ΕΙΜΑΙ-ΧΑΘΗΚΑ-5B2C9E?style=for-the-badge&labelColor=0D0221" />
+
+|  ΔΕΝ |  Ξέρω |  τι |  να |  γράψω |  εδώ |
+|:----:|:-----:|:---:|:---:|:------:|:----:|
+|  我 |  不知道 |  写 |  什么 |  了 |  啊 |
+|  Je |  ne |  sais |  pas |  quoi |  mettre |
+|  🤷 |  💀 |  █ |  ░ |  ░ |  █ |
+
+<p align="right"><sub><code>// TODO: everything ← まだ何もやってない</code></sub></p>
+
+---
+
+`./run_life.sh --purpose="???" --duration="???"`
+
+```c
+/* このコードは何の意味もありません 
+   этот код ничего не значит
+   هذا الكود لا يعني شيئا */
+   
+#include <stdio.h>
+#include <void.h>        // ← これは存在しない
+#include "迷茫"          // ← ファイルが見つかりません
+
+int 意义 = 0;   // смысл = 0
+char* 谁 = "███";
+
+int main() {
+    // لا توجد بداية ولا نهاية
+    while (1 == 1) {
+        printf(" ░░▓▓████ ");
+        sleep(随机时间);
+    }
+    return 没有返回值;
+}
+```
+
+<details>
+<summary>🔄 ▶加载模块...</summary>
+<details>
+<summary>...耐心点...</summary>
+<details>
+<summary>...快了...</summary>
+<details>
+<summary>...差一点...</summary>
+
+```
+[████████████████████████░░] 93%
+
+最后7%加载失败。
+
+原因：████████████████
+
+你花时间打开了一个加载失败的弹窗。
+
+👋
+```
+
+</details>
+</details>
+</details>
+</details>
+
+---
+
+## 不、是、这、样、排、的
+
+`| ╱ ╲ █▀▀ █▀▀ █▀▀ █   |` <sub><code>─ 谁画的？ ─ 乱画的 ─ 为什么？ ─ ▓▓░ 因为 ████</code></sub>
+
+`|╲ ╱ █▄█ █▄ ▀  █ ▄  |`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:0F084B,50:5B2C9E,75:FF2A6D,100:05D9E8&height=200&section=header&fontSize=0&animation=twinkling&fontAlignY=32" />
+  <img src="https://img.shields.io/badge/لا_يوجد_معنى-NO_MEANING-FF2A6D?style=flat-square" />
 </p>
 
-`[2077.12.24] ██████ SYSTEM.BREACH DETECTED ██████`
+> A: 你为什么在写这些东西？  
+> B: Écoute, je ne sais pas. Просто пишу. 그냥 쓰는 거야.  
+> A: 那有什么意义？  
+> B: معنى؟ معنى؟ محد يعرّف معنى. personne ne sait. 誰も知らない.  
+> A: ...  
+> B: ...  
+> A: 🤡  
+> B: 🤡
+
+<div align="center">
+<pre lang="zh">
+   ∧_∧ 
+   ( •̀ω•́ )✧ 写代码呢 写什么代码 随便写
+   /つつ   写完了吗 没有 还在写
+          那写的是什么 我自己也不知道
+          那··· 那··· 算了别问了
+</pre>
+</div>
 
 ```
-ERROR 0x█FF2A6D: 你正在访问一个████的███
-  ┌─ NEURAL ─┐   ┌─ LINK ──┐   ┌─ FAIL ──┐
-  │ ░░▓▓████ │───│ ░░░░▓▓▓ │───│ ██████░░│
-  │ ██████░░░ │   │ ▓▓████░░ │   │ ░░░░░░░░│
-  └───────────┘   └─────────┘   └─────────┘
+┌─────────────────────────────────────────────┐
+│ TERMINAL v2.███ — CONNECTION: UNSTABLE     │
+├─────────────────────────────────────────────┤
+│                                             │
+│  > status                                   │
+│    ██ 意义:     NOT FOUND                    │
+│    ░░ 目标:     LOADING... (since 2077)     │
+│    ▓▓ 精神状态: ████████░░ 80%              │
+│    █░ 咖啡浓度: OVERFLOW                    │
+│    ░█ 存款:      ▓▓░ 23.5%                  │
+│                                             │
+│  > find / -name "人生方向"                  │
+│    搜索中...                                 │
+│    搜索中...                                 │
+│    搜索中...                                 │
+│    ERROR: 搜索范围过大 (整个宇宙)            │
+│    HINT: 试试缩小范围到"今天"               │
+│                                             │
+│  > find /today -name "人生方向"             │
+│    ERROR: 今天也没有找到                     │
+│                                             │
+│  > why                                      │
+│    'why' is not recognized as an internal   │
+│    or external command, operable program or │
+│    batch file.                              │
+│                                             │
+│  > help                                     │
+│    没人能帮你 ╳╳╳                            │
+│                                             │
+│  > _                                        │
+└─────────────────────────────────────────────┘
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚠-MEMORY_CORRUPTED-FF2A6D?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/◉-NETRUNNER_404-05D9E8?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/☠-SOUL_NOT_FOUND-5B2C9E?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/%E2%96%91-CONNECTION_LOST-FF2A6D?style=for-the-badge&labelColor=000" />
-  <img src="https://img.shields.io/badge/%E2%96%93-UNKNOWN_ERROR-05D9E8?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/%E2%96%92-MAYBE_BUG-5B2C9E?style=for-the-badge&labelColor=0D0221" />
-</p>
-
----
-
-```
-C:\NightCity\home\小黄> jack_in
-正在连接███...░░░░▓▓▓▓████ 100%
-连接成功。
-C:\NightCity\home\小黄> whoami
-你是一个人
-C:\NightCity\home\小黄> ls
-  目录: ██████████████████████████████████
-
-  存在.txt      写了一半    4KB
-  意义.exe      未知        0KB
-  目标.bat      不存在      ????
-  .迷茫         隐藏文件夹  ∞
-  梦想.md       已损坏      ████
-  README.md     你在看这个  你
-C:\NightCity\home\小黄> rm 意义.exe
-找不到 '意义.exe'。
-C:\NightCity\home\小黄> sudo rm -rf /
-```
-
----
-
-<h1>欢</h1>  <h6>迎</h6>  <h3>来</h3>  <h2>到</h2>  <h5>这</h5>  <h1>里</h1>
-
-<span style="color:#FF2A6D">在霓虹灯下的垃圾桶旁边，有人写了一个README。</span>
-
-<span style="color:#05D9E8">那个README就是你正在看的这个东西。</span>
-
-<span style="color:#5B2C9E">你应该关掉它。</span>
-
-<span style="color:#FF2A6D">但你不会。</span>
-
-<details>
-<summary style="color:#05D9E8">⚠ SYSTEM.DUMP</summary>
-
-```
-STACK TRACE:
-  at 无人知晓的地方 (灵魂.js:0)
-  at 也许不该存在的函数 (memory.c:???)
-  at ████████ (███.███:██)
-  at 你为什么要看堆栈跟踪 (???)
-  at 算了不写了 (放弃.py:∞)
-
-MEMORY LEAK: 2.7GB of 想太多
-HEAP CORRUPTION: 现实对象已损坏
-DOUBLE FREE: 你不能释放两次
-SEGFAULT: access violation at 0x人生
-```
-
-</details>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NOBODY_HOME-404-FF2A6D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-🐍-05D9E8?style=flat-square&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/JavaScript-⚡-FF2A6D?style=flat-square&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/謎-❓-5B2C9E?style=flat-square&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/分からない-∞-0D0221?style=flat-square&labelColor=333" />
+  <img src="https://img.shields.io/badge/我不知道-░░░-FF2A6D?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/I_DONT_KNOW-???-05D9E8?style=flat-square&labelColor=0D0221" />
 </p>
 
-| ?? | ?? | ?? |
-|:--:|:--:|:--:|
-| 漂浮 | 在 | 空中 |
-| 什么 | 也 | 没抓 |
-| 到 | 手里 | 空 |
+`if (你 == "还在看") { return "牛"; }`
 
-<p align="right">
-  <img src="https://img.shields.io/badge/这个表格什么意思-没有意义-0D0221?style=flat-square" />
-</p>
+## 漂
 
----
+#### 浮 在
 
-> 「在这个城市里，每个人都有一个价格。我的价格是一杯合成咖啡和一段永远不会被编译的代码。」
-> 
-> —— 某个NETRUNNER的遗言，被刻在一家关门的拉面店墙上
-> 
-> 后来墙也拆了
+###### 互联网
 
-```
-01010111 01101000 01101111 00100000 01100001 01101101 00100000 01101001
-我空格是空格谁空格我空格也空格不空格知空格道
-```
+### 的
+
+<sup>某</sup>个**角**落
+
+> Истина где-то там. 真理在某处。  
+> Но ты не найдёшь его здесь. 但你不会在这里找到。  
+> なぜなら ここには 何もないから。  
+> Because there's nothing here. 因为这里什么都没有。  
+>  
+> يعني لا شيء.  
+> 真的。**真的。**`真的。`
 
 ---
 
-<h4 align="center"><code>&lt;你正在向下滚动 / 停下来想想为什么 / 想不出来 / 继续滚 /&gt;</code></h4>
+### 📊 数据
 
----
-
-```
-   ╔══════════════════════════════════════════╗
-   ║  ⚡ NIGHT CITY PUBLIC TERMINAL v0.0.██  ║
-   ╠══════════════════════════════════════════╣
-   ║                                          ║
-   ║  > 输入指令                               ║
-   ║  > 查看状态           ██░░░░░░ 33%       ║
-   ║  > 意义               FILE NOT FOUND      ║
-   ║  > 人生目标           TIMED OUT           ║
-   ║  > 后悔的事           STACK OVERFLOW      ║
-   ║  > 明天的计划         UNDEFINED           ║
-   ║  > 存款余额           404                 ║
-   ║  > 灵魂状态           ▓▓▓▓░░░░░ 44%      ║
-   ║  >                                          ║
-   ║  ╔══════════════════════════════════╗     ║
-   ║  ║ WARNING: 你已经在这站了47分钟     ║     ║
-   ║  ║ 这个终端什么也做不了              ║     ║
-   ║  ║ 但你还是站在这里                  ║     ║
-   ║  ║ 为什么？                          ║     ║
-   ║  ╚══════════════════════════════════╝     ║
-   ║                                          ║
-   ║  > [退出]  [不退出]  [为什么有这个选项]    ║
-   ║                                          ║
-   ╚══════════════════════════════════════════╝
-```
-
----
-
-### ██████ 技能 ██░░░░
-
-`正在加载...请稍候`
-
-`加载失败`
-
-`正在重新加载...`
-
-`加载失败`
-
-`跳过加载`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,vue,fastapi,mysql,git,linux,docker&theme=dark&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/以上技能-也许会-05D9E8?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/实际水平-看心情-FF2A6D?style=for-the-badge&labelColor=0D0221" />
-</p>
-
----
-
-<details>
-<summary>猛戳这里</summary>
-
-```
-你真的点了啊？
-
-好吧。
-
-既然你这么执着...
-
-这是给你的：
-
-░░░░░░░░░░░░░░░
-
-什么？
-
-你以为会看到什么？
-
-这就是全部了。
-
-一串空格。
-
-和你的期待一样——空的。
-
-但你不甘心对吧？
-
-你还在往下看。
-
-你以为下面还有东西。
-
-但真的没有了。
-
-...
-
-真的。
-
-...
-
-行吧。
-
-给你个彩蛋：
-
-<details>
-<summary>在彩蛋里</summary>
-
-<details>
-<summary>再套一层</summary>
-
-<details>
-<summary>继续</summary>
-
-<details>
-<summary>你赢了没有</summary>
-
-<details>
-<summary>快到底了</summary>
-
-恭喜。
-
-你花了一分钟打开这些折叠框。
-
-人生又少了一分钟。
-
-值得吗？
-
-</details>
-</details>
-</details>
-</details>
-</details>
-
-</details>
-
----
+| | commits | repos | 意义 | 快乐 | 咖啡 |
+|:--|--:|--:|--:|--:|--:|
+| 数量 | 一些 | 两个 | 0 | ▓░ | ████████ |
+| 单位 | 个 | 个 | ??? | % | 杯/天 |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=5B2C9E" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=0D0221&stroke=5B2C9E&ring=FF2A6D&fire=05D9E8&currStreakLabel=D1F7FF&sideNums=05D9E8&sideLabels=D1F7FF&dates=FF2A6D&border_radius=10" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/↑-这些数据也许是真的-05D9E8?style=flat-square&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/↑-也许不是-5B2C9E?style=flat-square&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/↑-谁在乎呢-FF2A6D?style=flat-square&labelColor=0D0221" />
-</p>
-
 ---
 
 ```
-███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗   ██╗███████╗
-██╔════╝██║  ██║██╔══██╗████╗  ██║██║  ╚██╗ ██╔╝██╔════╝
-███████╗███████║███████║██╔██╗ ██║██║   ╚████╔╝ █████╗
-╚════██║██╔══██║██╔══██║██║╚██╗██║██║    ╚██╔╝  ██╔══╝
-███████║██║  ██║██║  ██║██║ ╚████║╚██████╗██║   ███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝   ╚══════╝
-
-⚠ 此段代码永远无法运行
-⚠ 就像你的人生计划一样
-⚠ 没有冒犯的意思
-⚠ 好吧也许有一点
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  你好                                             ║
+║  مرحبا                                           ║
+║  Hello                                           ║
+║  Bonjour                                         ║
+║  Привет                                          ║
+║  こんにちは                                       ║
+║  안녕하세요                                       ║
+║  Ciao                                            ║
+║  Hola                                            ║
+║  Olá                                             ║
+║                                                  ║
+║  不管哪种语言 你都在看这段话                       ║
+║  这说明什么？                                     ║
+║  说明你很闲                                       ║
+║  说明这个世界还有你的容身之处                      ║
+║  哪怕是在一个乱七八糟的README里                    ║
+║  ← 这句话突然认真了                               ║
+║     搞砸了气氛 sorry                              ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
+
+<img src="https://img.shields.io/badge/▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼-████████████████-FF2A6D?style=flat-square&labelColor=0D0221" />
 
 ---
 
-# 动
+`git log --oneline`
 
-### 态
-
-#### 活动
-
-##### 图
+```
+a3f9c2d fix: 修了一个bug → 引入了三个新bug
+b7e1a0f feat: 加了新功能 → 没人用
+c4d2f8a refactor: 重构了代码 → 更难看了
+e8f3b1a docs: 更新了文档 → 还是看不懂
+f1a9c0e init: 初始化项目 → 然后呢？
+```
 
 ```python
-# 2077年的某天 我决定写一个函数
-# 用来计算人生的方向
-# 结果如下：
-
-def 人生的方向(心情, 咖啡, 睡眠):
-    if 咖啡 <= 0:
-        return "回床上"
-    if 心情 == "迷茫":
-        if 睡眠 < 6:
-            return "先睡觉再说"
-        else:
-            return "虽然睡够了但还是迷茫"
-    if 心情 == "还行":
-        if 随机() > 0.7:
-            return "突然又迷茫了"
-        return "短暂的还行"
-    return "██████████"
-
-print(人生的方向("迷茫", 0, 3))
-# 输出: 回床上
-# （作者注：这可能是最准确的代码了）
+# try:
+#     找到人生的答案()
+# except 没找到:
+#     print("那就先喝杯咖啡 ☕")
+#     # ← 这行注释陪我度过了很多个深夜
+#     # 如果你也看到了这里
+#     # 那 我们碰一下杯子 🍺
 ```
+
+<details>
+<summary>打开看看？🍷</summary>
+
+不。
+
+别看了。
+
+这里什么都没有。
+
+<details>
+<summary>你非要打开是吧</summary>
+
+好吧。
+
+```
+███████████████████████
+███████████████████████
+███████████████████████
+███████████████████████
+```
+
+这是什么？
+
+像素艺术？
+
+坏掉的屏幕？
+
+答案：这是一个方块。
+
+你对一个方块点了两层折叠。
+
+反思一下自己的人生。
+
+</details>
+</details>
+
+---
+
+`>> wget https://人生的意义.com -O ./答案.txt`
+`--2026-04-16 20:30:00--  https://人生的意义.com/`
+`Resolving 人生的意义.com... failed: Name or service not known.`
+
+`ping 宇宙`
+`PING 宇宙 (0.0.0.0) 56(84) bytes of data.`
+`From unknown (∞.∞.∞.∞): icmp_seq=1 Destination Unreachable`
+`From unknown (∞.∞.∞.∞): icmp_seq=2 Time exceeded`
+`From unknown (∞.∞.∞.∞): icmp_seq=3 又失败了`
+`--- 宇宙 ping statistics ---`
+`3 packets transmitted, 0 received, 100% packet loss`
+
+---
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" width="95%" />
+    <img alt="🐍" src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" width="95%" />
   </picture>
-</p>
-
-<p align="center">
-  <code>上面那条蛇至少知道自己要去哪里</code>
 </p>
 
 ---
 
-### ✧ 最 后 ✧
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   你已经看完了整个 README。                          │
-│                                                     │
-│   恭喜。                                            │
-│                                                     │
-│   你花了多少时间？                                   │
-│   那些时间去哪了？                                   │
-│   跟着你的目光消散了。                                │
-│                                                     │
-│   就像霓虹灯关掉的那一刻。                            │
-│   什么都没留下。                                     │
-│   但暗了一秒之后                                     │
-│   又亮了。                                          │
-│                                                     │
-│   所以也没关系。                                     │
-│                                                     │
-│   ──── dalaodeyitian / 2077 ────                   │
-│                                                     │
-│   "代码即力量，一行一行入侵世界"                      │
-│   "但如果世界拒绝被入侵呢？"                          │
-│   "那就再多写一行"                                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<div align="center">
+<pre>
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░ dalaodeyitian ░░ 2077 ░░ Night City ░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░ 代码即力量 · ████ · 一行一行入侵世界 ░░
+   ░░ but if the world says no? ░░
+   ░░ then we write one more line ░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1800&color=FF2A6D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=echo+%22Welcome+to+Night+City%22;rm+-rf+/meaning;cat+/dev/null+%3E+/dev/life;while+true;+do+drink+coffee;+done" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=1500&color=FF2A6D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=while+true;+do+code;+drink+coffee;+exist;+done;echo+%22that's+it.%22" alt="" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,25:FF2A6D,50:5B2C9E,75:0F084B,100:0D0221&height=80&section=footer" />
 </p>
 
-<p align="center">
-  <sub><code>© 2077 · dalaodeyitian · all rights corrupted · v∞.█</code></sub>
-</p>
+`© ╳░░ ▓▓██ dalaodeyitian ─── all rights ████ corrupted ░░░ v∞`
