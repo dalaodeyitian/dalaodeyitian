@@ -1,289 +1,357 @@
-`[SYS.BREACH] ███████████████████████░░░░░ 78% COMPLETE`
+`[KERN.FATAL] ░▒▓█ ████████ ████ ░▒▓░ 2077% ▒░ OVERFLOW`
 
-> ⚠ あなたは何を見ているんですか？ why are you still reading this? 빨리 닫아
+> ╳╳╳ なぜ まだ ここにいるの ← pourQUOi tu lis ÇA →لماذا ما زلت هنا──你为什么还在看──√i∫∂²∞ undefined
 
-<p align="center"><code>0xF4 0xE9 0xBA 0xAE ▓▓░ ████ H€LLØ በል ትርጉም የለም</code></p>
+<p align="center"><code>▓ ░ █ ▓ ░ █ <sub><sup>⊥</sup></sub>∞≠∅ H̄̈̈̈̈̈̈̈Ē̈̈̈̈̈̈̈L̄̈̈̈̈̈̈̈L̄̈̈̈̈̈̈̈Ō̈̈̈̈̈̈̈ ▓ ░ █ ▓ ░</code></p>
 
 ```
-01001001 00100000 01100001 01101101
-S.O.S. ─── ╳╳╳ ─── 4.7.3
-_réveillez-vous_  --/--/-- 
- Nichts zu sehen hier   ← я тоже так думаю
-  ☢ СИСТЕМА ПОВРЕЖДЕНА ☢
+╭─╮ ┌─┐ ╔═╗ ┌─┐ ╭─╮
+│ │ │ │ ║ ║ │ │ │ │  ← 这行是什么意思？ 意思是你不该看
+╰─╯ └─┘ ╚═╝ └─┘ ╰─╯
+┌┐ └┘ ╭╮ ┌┐  你   现在  已经   读不懂了   对吧
+└┘  ┌┐ ╰╯ └┘  那  为什么  还要  继续往下  滚  ←
 ```
 
-<img src="https://img.shields.io/badge/¿Qué_es_esto?-Nadie_sabe-FF2A6D?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/何もない-404-05D9E8?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/ΠΟΥ_ΕΙΜΑΙ-ΧΑΘΗΚΑ-5B2C9E?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/¿¿¿-????-FF2A6D?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/なにこれ-⁉️⁉️-05D9E8?style=for-the-badge&labelColor=0D0221" /> <img src="https://img.shields.io/badge/שֶׁׁ מֶׁ זֶׁה-???-5B2C9E?style=for-the-badge&labelColor=0D0221" />
 
-|  ΔΕΝ |  Ξέρω |  τι |  να |  γράψω |  εδώ |
-|:----:|:-----:|:---:|:---:|:------:|:----:|
-|  我 |  不知道 |  写 |  什么 |  了 |  啊 |
-|  Je |  ne |  sais |  pas |  quoi |  mettre |
-|  🤷 |  💀 |  █ |  ░ |  ░ |  █ |
+|  勿 |   论 |   如何 |   不要 |   停下 |    ←│
+|:----:|:-----:|:------:|:------:|:------:|:--:|
+| don't | arrête | pas | не | 止まる | な |
+| ░░ | ▓▓ | ████ | ░▓ | █░ | ▓░ |
+| ? | ?? | ??? | ??? | ? |  |
 
-<p align="right"><sub><code>// TODO: everything ← まだ何もやってない</code></sub></p>
+### ←
+
+### <sup>↑</sup>
 
 ---
 
-`./run_life.sh --purpose="???" --duration="???"`
+`░░▒▒▓▓████ dalaodeyitian █████▓▓▒▒░░`
 
-```c
-/* このコードは何の意味もありません 
-   этот код ничего не значит
-   هذا الكود لا يعني شيئا */
-   
-#include <stdio.h>
-#include <void.h>        // ← これは存在しない
-#include "迷茫"          // ← ファイルが見つかりません
-
-int 意义 = 0;   // смысл = 0
-char* 谁 = "███";
-
-int main() {
-    // لا توجد بداية ولا نهاية
-    while (1 == 1) {
-        printf(" ░░▓▓████ ");
-        sleep(随机时间);
-    }
-    return 没有返回值;
-}
-```
-
-<details>
-<summary>🔄 ▶加载模块...</summary>
-<details>
-<summary>...耐心点...</summary>
-<details>
-<summary>...快了...</summary>
-<details>
-<summary>...差一点...</summary>
-
-```
-[████████████████████████░░] 93%
-
-最后7%加载失败。
-
-原因：████████████████
-
-你花时间打开了一个加载失败的弹窗。
-
-👋
-```
-
-</details>
-</details>
-</details>
-</details>
+<span style="font-size:32px">**不**</span> <sub style="font-size:8px;color:#555">要</sub> <span style="font-size:24px">**试**</span> <sup style="font-size:6px">图</sup> <span style="font-size:16px">**理**</span> <sub><sup>解</sup></sub> <span style="font-size:40px">**这**</span> <sub style="font-size:10px;color:#FF2A6D">个</sub>
 
 ---
 
-## 不、是、这、样、排、的
+<div align="right">
 
-`| ╱ ╲ █▀▀ █▀▀ █▀▀ █   |` <sub><code>─ 谁画的？ ─ 乱画的 ─ 为什么？ ─ ▓▓░ 因为 ████</code></sub>
+`每个`
 
-`|╲ ╱ █▄█ █▄ ▀  █ ▄  |`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/لا_يوجد_معنى-NO_MEANING-FF2A6D?style=flat-square" />
-</p>
-
-> A: 你为什么在写这些东西？  
-> B: Écoute, je ne sais pas. Просто пишу. 그냥 쓰는 거야.  
-> A: 那有什么意义？  
-> B: معنى؟ معنى؟ محد يعرّف معنى. personne ne sait. 誰も知らない.  
-> A: ...  
-> B: ...  
-> A: 🤡  
-> B: 🤡
+</div>
 
 <div align="center">
-<pre lang="zh">
-   ∧_∧ 
-   ( •̀ω•́ )✧ 写代码呢 写什么代码 随便写
-   /つつ   写完了吗 没有 还在写
-          那写的是什么 我自己也不知道
-          那··· 那··· 算了别问了
-</pre>
+
+`字`
+
+</div>
+
+<div align="left">
+
+`都`
+
+</div>
+
+<div align="right">
+
+`是`
+
+</div>
+
+<div align="center">
+
+<sup><sub>独立的</sub></sup>
+
+</div>
+
+<div align="left">
+
+`↺`
+
+</div>
+
+<div align="center">
+
+```
+      ┌─────────────────┐
+      │  你在找规律吗？   │
+      │                  │
+      │   没有规律        │
+      │                  │
+      └─────┬───────────┘
+            │
+            ▼
+      ┌─────────────────┐
+      │  真的没有         │
+      │                  │
+      │  别找了           │
+      └─────┬───────────┘
+            │
+            ▼
+      ┌─────────────────┐
+      │  ← 你还在找      │
+      └─────────────────┘
+```
+
+</div>
+
+---
+
+## 不相关的东西
+
+```c
+#include <不存在.h>
+#include "████"
+
+void () {
+    for(;;)
+        /* لا يوجد خروج */
+        /* нет выхода */
+        /* 出口なし */
+        return ░░░;
+}
+
+// 编译结果: ████████████████
+```
+
+<sub><sup>上面的代码</sup></sub> <span style="font-size:4px">既</span> <sub><sup>不能编译</sup></sub> <span style="font-size:3px">也不</span> <sub><sup>能运行</sup></sub> <span style="font-size:7px">但</span> <sub><sup>它能</sup></sub> <span style="font-size:11px">存在</span> <sub><sup>就像</sup></sub> <span style="font-size:5px">这段话</span> <sub><sup>一样</sup></sub>
+
+---
+
+<details>
+<summary>▶</summary>
+
+<details>
+<summary>▶▶</summary>
+
+<details>
+<summary>▶▶▶</summary>
+
+<details>
+<summary>▶▶▶▶</summary>
+
+<details>
+<summary>▶▶▶▶▶  你真的要点这么多层?</summary>
+
+`███████████████████████████████████████`
+
+你以为里面有什么？ 什么都没有。
+
+<sub>跟这个仓库一样</sub>
+
+<sup>跟你花的时间一样</sup>
+
+<span style="font-size:1px;color:#000">有价值吗 没有价值 但你还是在看 为什么 因为人类就是会做这种事 像按气泡纸一样 没意义但停不下来 所以我也没停下来写这些东西 你也没停下来读这些东西 我们在这方面挺般配的</span>
+
+</details>
+</details>
+</details>
+</details>
+</details>
+
+---
+
+## ┌──┐ ┌──┐
+## │  │ │  │
+## └──┘ └──┘
+### <sup>上面是两个方块 它们彼此不认识 它们只是在同一个README里 某种意义上就像我们</sup>
+
+`>> ./生活 --模式="混乱" --输出="???"`
+`[WARN] 参数 '--模式' 未被识别`
+`[WARN] 参数 '--输出' 未被识别`
+`[ERROR] 你也 未被识别`
+`[FATAL] ╳╳╳╳╳╳╳╳`
+`core dumped`
+
+---
+
+<span style="font-size:28px">**断**</span>
+<span style="font-size:4px">裂</span>
+<span style="font-size:36px">的</span>
+<span style="font-size:7px">句</span>
+<span style="font-size:18px">子</span>
+<span style="font-size:3px">像</span>
+<span style="font-size:42px">你</span>
+<span style="font-size:6px">的</span>
+<span style="font-size:24px">思</span>
+<span style="font-size:9px">路</span>
+<span style="font-size:14px">一</span>
+<span style="font-size:2px">样</span>
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ ▓ TERMINAL v█.█░█ — ═══ CONNECTION: ╳╳╳ STABLE ─── ═══    │
+│                                                             │
+│  > 意义                                                      │
+│    bash: 意义: command not found                             │
+│                                                             │
+│  > 目标                                                     │
+│    bash: 目标: command not found                             │
+│                                                             │
+│  > 方向                                                     │
+│    bash: 方向: ambiguous redirect                            │
+│                                                             │
+│  > 咖啡                                                     │
+│    ██████████████████████ brew install 成功                   │
+│                                                             │
+│  > ls /生活/                                                  │
+│    混沌.md    迷茫.py    咖啡.sh    未完成.c    乱七八糟.js  │
+│    还有142867个文件没有列出                                  │
+│                                                             │
+│  > cat 混沌.md                                               │
+│    什么都没有。你想要什么？什么都没有。就这样。                 │
+│                                                             │
+│  > _                                                         │
+│    ░░░░ 信号丢失 ░░░░                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/语言-8种以上-05D9E8?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/逻辑-0-FF2A6D?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/符号-∞-5B2C9E?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/可读性-???-0D0221?style=flat-square&labelColor=333" />
+<img src="https://img.shields.io/badge/你在找什么-找不到-FF2A6D?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/WHY-?_?_?-05D9E8?style=flat-square&labelColor=0D0221" />
+
 </div>
 
 ```
-┌─────────────────────────────────────────────┐
-│ TERMINAL v2.███ — CONNECTION: UNSTABLE     │
-├─────────────────────────────────────────────┤
-│                                             │
-│  > status                                   │
-│    ██ 意义:     NOT FOUND                    │
-│    ░░ 目标:     LOADING... (since 2077)     │
-│    ▓▓ 精神状态: ████████░░ 80%              │
-│    █░ 咖啡浓度: OVERFLOW                    │
-│    ░█ 存款:      ▓▓░ 23.5%                  │
-│                                             │
-│  > find / -name "人生方向"                  │
-│    搜索中...                                 │
-│    搜索中...                                 │
-│    搜索中...                                 │
-│    ERROR: 搜索范围过大 (整个宇宙)            │
-│    HINT: 试试缩小范围到"今天"               │
-│                                             │
-│  > find /today -name "人生方向"             │
-│    ERROR: 今天也没有找到                     │
-│                                             │
-│  > why                                      │
-│    'why' is not recognized as an internal   │
-│    or external command, operable program or │
-│    batch file.                              │
-│                                             │
-│  > help                                     │
-│    没人能帮你 ╳╳╳                            │
-│                                             │
-│  > _                                        │
-└─────────────────────────────────────────────┘
+ ┌─────────────┐     ╔═══════════╗     ┌─────────────┐
+ │  起始点      │────►║  ???      ║────►│  终点?      │
+ │  (也许吧)    │     ║  没有路    ║     │  (谁知道)    │
+ └─────────────┘     ╚═══════════╝     └─────────────┘
+        │                   │                   │
+        ▼                   ▼                   ▼
+      ░░░░               ▓▓▓▓▓               ████
+     空的               也是空的              还是空的
 ```
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-🐍-05D9E8?style=flat-square&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/JavaScript-⚡-FF2A6D?style=flat-square&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/謎-❓-5B2C9E?style=flat-square&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/分からない-∞-0D0221?style=flat-square&labelColor=333" />
-  <img src="https://img.shields.io/badge/我不知道-░░░-FF2A6D?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/I_DONT_KNOW-???-05D9E8?style=flat-square&labelColor=0D0221" />
-</p>
-
-`if (你 == "还在看") { return "牛"; }`
-
-## 漂
-
-#### 浮 在
-
-###### 互联网
-
-### 的
-
-<sup>某</sup>个**角**落
-
-> Истина где-то там. 真理在某处。  
-> Но ты не найдёшь его здесь. 但你不会在这里找到。  
-> なぜなら ここには 何もないから。  
-> Because there's nothing here. 因为这里什么都没有。  
->  
-> يعني لا شيء.  
-> 真的。**真的。**`真的。`
+<h6 align="right">小小的</h6>
+<h2 align="center">巨大的</h2>
+<h5 align="left">歪歪扭扭的</h5>
+<h3 align="right">排列着</h3>
+<h1 align="center">这</h1>
+<h4>就是</h4>
+<h6 align="right">这</h6>
+<h2 align="left">个</h2>
+<h5 align="center">仓</h5>
+<h3>库</h3>
 
 ---
 
-### 📊 数据
+`if (你读到了这里) { 你一定很闲; return 你闲的程度 + 1; }` ← <sup><sub>这个if没有else 因为else也不存在</sub></sup>
 
-| | commits | repos | 意义 | 快乐 | 咖啡 |
-|:--|--:|--:|--:|--:|--:|
-| 数量 | 一些 | 两个 | 0 | ▓░ | ████████ |
-| 单位 | 个 | 个 | ??? | % | 杯/天 |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=5B2C9E" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=0D0221&stroke=5B2C9E&ring=FF2A6D&fire=05D9E8&currStreakLabel=D1F7FF&sideNums=05D9E8&sideLabels=D1F7FF&dates=FF2A6D&border_radius=10" width="47%" />
-</p>
+```
+ping 存在的意义
+64 bytes from 不存在: icmp_seq=0 ttl=∞ time=不存在 ms
+64 bytes from 不存在: icmp_seq=1 ttl=∞ time=不存在 ms
+--- 存在的意义 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time ∞ms
+```
 
 ---
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║  你好                                             ║
-║  مرحبا                                           ║
-║  Hello                                           ║
-║  Bonjour                                         ║
-║  Привет                                          ║
-║  こんにちは                                       ║
-║  안녕하세요                                       ║
-║  Ciao                                            ║
-║  Hola                                            ║
-║  Olá                                             ║
-║                                                  ║
-║  不管哪种语言 你都在看这段话                       ║
-║  这说明什么？                                     ║
-║  说明你很闲                                       ║
-║  说明这个世界还有你的容身之处                      ║
-║  哪怕是在一个乱七八糟的README里                    ║
-║  ← 这句话突然认真了                               ║
-║     搞砸了气氛 sorry                              ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+<sub><sup>下面的表格</sup></sub>
 
-<img src="https://img.shields.io/badge/▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼-████████████████-FF2A6D?style=flat-square&labelColor=0D0221" />
+|░|▓|█|░|▓|█|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|①|②|③|④|⑤|⑥|
+|い|ろ|は|に|ほ|へ|
+|ᄀ|ᄂ|ᄃ|ᄅ|ᄆ|ᄇ|
+|α|β|γ|δ|ε|ζ|
+
+<sup><sub>上面的表格</sup></sub>
+
+```
+它们排列得很整齐
+但没有任何意义
+就像把筷子摆成一条直线
+看起来很整齐
+但筷子上没有菜
+你也不会去吃筷子
+所以 为什么要排列呢
+因为排列本身就是意义
+不 排列也不是意义
+那什么是意义
+你问我我问谁
+```
 
 ---
 
-`git log --oneline`
-
-```
-a3f9c2d fix: 修了一个bug → 引入了三个新bug
-b7e1a0f feat: 加了新功能 → 没人用
-c4d2f8a refactor: 重构了代码 → 更难看了
-e8f3b1a docs: 更新了文档 → 还是看不懂
-f1a9c0e init: 初始化项目 → 然后呢？
-```
-
-```python
-# try:
-#     找到人生的答案()
-# except 没找到:
-#     print("那就先喝杯咖啡 ☕")
-#     # ← 这行注释陪我度过了很多个深夜
-#     # 如果你也看到了这里
-#     # 那 我们碰一下杯子 🍺
-```
-
-<details>
-<summary>打开看看？🍷</summary>
-
-不。
-
-别看了。
-
-这里什么都没有。
-
-<details>
-<summary>你非要打开是吧</summary>
-
-好吧。
-
-```
-███████████████████████
-███████████████████████
-███████████████████████
-███████████████████████
-```
-
-这是什么？
-
-像素艺术？
-
-坏掉的屏幕？
-
-答案：这是一个方块。
-
-你对一个方块点了两层折叠。
-
-反思一下自己的人生。
-
-</details>
-</details>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=5B2C9E" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=0D0221&stroke=5B2C9E&ring=FF2A6D&fire=05D9E8&currStreakLabel=D1F7FF&sideNums=05D9E8&sideLabels=D1F7FF&dates=FF2A6D&border_radius=10" width="47%" />
+</div>
 
 ---
 
-`>> wget https://人生的意义.com -O ./答案.txt`
-`--2026-04-16 20:30:00--  https://人生的意义.com/`
-`Resolving 人生的意义.com... failed: Name or service not known.`
+## ╭──╮
+### ╰──╯
+# <sub>↑ 凑过来看的？没有东西 ←</sub>
 
-`ping 宇宙`
-`PING 宇宙 (0.0.0.0) 56(84) bytes of data.`
-`From unknown (∞.∞.∞.∞): icmp_seq=1 Destination Unreachable`
-`From unknown (∞.∞.∞.∞): icmp_seq=2 Time exceeded`
-`From unknown (∞.∞.∞.∞): icmp_seq=3 又失败了`
-`--- 宇宙 ping statistics ---`
-`3 packets transmitted, 0 received, 100% packet loss`
+```
+    ╭───╮
+    │   │   ← 你
+    └─┬─┘
+      │     ← 正在看
+      ▼
+    ╭───╮
+    │ ???│   ← 这
+    └─┬─┘
+      │     ← 个
+      ▼
+    ╭───╮
+    │ ░░░│   ← 东西
+    └───┘
+      ╳
+     你看完了
+     获得了什么？
+     ░░░
+```
+
+---
+
+<div align="center">
+<pre lang="zh">
+   ∧_∧
+  (◕‿◕✿) 写代码
+  /│\     写到哪了
+ / │ \    不知道
+/  │  \   为什么不知道
+   │     因为代码在写我
+   │
+   ▼
+  ┌─┐
+  │█│ ← 被代码吞噬了
+  └─┘
+</pre>
+</div>
+
+---
+
+<span style="font-size:5px">如果说</span>
+<sup>这个</sup>
+<span style="font-size:20px">世界</span>
+<sub>真的</sub>
+<span style="font-size:3px">有一个</span>
+<sup>终点</sup>
+<span style="font-size:50px">那它</span>
+<sub>一定</sub>
+<span style="font-size:1px">不是</span>
+<sup>这个</sup>
+<span style="font-size:15px">README</span>
+<sub>的</sub>
+<span style="font-size:8px">最后一行</span>
+<sup>因为</sup>
+<span style="font-size:33px">下面</span>
+<sub>还有</sub>
 
 ---
 
@@ -299,22 +367,21 @@ f1a9c0e init: 初始化项目 → 然后呢？
 
 <div align="center">
 <pre>
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-   ░░ dalaodeyitian ░░ 2077 ░░ Night City ░░
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-   ░░ 代码即力量 · ████ · 一行一行入侵世界 ░░
-   ░░ but if the world says no? ░░
-   ░░ then we write one more line ░░
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░ dalaodeyitian ░░ ████ ░░ 不保证有下一个版本 ░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░ 代码 ░░ 咖啡 ░░ █████ ░░ 一切都在 ░░ ╳╳╳ ░░
+ ░░ 但又 ░░ 好像 ░░ 什么都 ░░ 不在 ░░ ░▒▓█ ░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 </pre>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=1500&color=FF2A6D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=while+true;+do+code;+drink+coffee;+exist;+done;echo+%22that's+it.%22" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=1500&color=FF2A6D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=while+true;+do+break;+then+fix;+then+break+again;+done" alt="" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,25:FF2A6D,50:5B2C9E,75:0F084B,100:0D0221&height=80&section=footer" />
 </p>
 
-`© ╳░░ ▓▓██ dalaodeyitian ─── all rights ████ corrupted ░░░ v∞`
+`© ░▓█ ╳╳╳ dalaodeyitian ─── all rights ██████████ ░▓░ v???`
