@@ -1,5 +1,7 @@
 `[CRITICAL] <span style="color:#FF0040">░▒▓█</span> BSoD <span style="color:#FFE600">██</span> EXCEPTION <span style="color:#39FF14">0x`𓂀`𓁹` DEAD</span> <span style="color:#FF6EC7">▒░▓█</span> KERNEL PANIC <span style="color:#FFE600">▓▒░</span> NOT YOUR FAULT BUT ALSO KIND OF YOUR FAULT`
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FFE600,30:39FF14,45:FF6EC7,60:BF00FF,75:00FFFF,90:FF8C00,100:FF0040&height=120&section=header&text=dalaodeyitian&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=THIS%20README%20IS%20BROKEN&descSize=15&descAlignY=55&descColor=FFE600" /></p>
+
 <p align="center"><code><span style="color:#FF0040">░█▒▓</span> <span style="color:#00FF88">存在</span><span style="color:#FFE600">`ПАМЯТЬ`</span><span style="color:#FF6EC7">لا</span><span style="color:#00FFFF">`메모리`</span><span style="color:#FF8C00">ความจำ</span><span style="color:#BF00FF">は</span><span style="color:#FF0000">■■■ ERROR</span> <span style="color:#39FF14">░▒▓█</span> <span style="color:#FFE600">Buffer Overflow</span> <span style="color:#FF0040">▓▒░</span> <span style="color:#00FFFF">Segfault</span> <span style="color:#FF6EC7">at</span> <span style="color:#BF00FF">`ትንትነ`</span> <span style="color:#39FF14">`การจำ`</span> <span style="color:#FF8C00">`සිහිය`</span> <span style="color:#FF0040">`గుర్తింపు`</span> <span style="color:#FFE600">`0xDEAD`</span></code></p>
 
 ```
@@ -31,6 +33,10 @@
 
 <img src="https://img.shields.io/badge/💀-SYSTEM_CRASH-FF0000?style=for-the-badge&labelColor=000&logo=windows&logoColor=FF0000" /> <img src="https://img.shields.io/badge/⚠️-KERNEL_PANIC-FFE600?style=for-the-badge&labelColor=000" /> <img src="https://img.shields.io/badge/🔴-MEM_CORRUPTED-FF0040?style=for-the-badge&labelColor=000" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=500&color=FF0040&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=ERROR;ERROR;WARNING;FATAL;NOT_AN_ERROR;WAIT_ERROR;ERROR_AGAIN;HELP;NO_HELP;PLEASE_WAIT;ALMOST_DONE;NEVER_DONE;☠️☠️☠️" alt="" />
+</p>
+
 <span style="color:#FF0040"><sub>`पुनःआरंभ`</sub></span><span style="color:#FFE600"><sup>`Վերացում`</sup></span><span style="font-size:2px;color:#00FF88">`პირველი`</span><span style="color:#FF6EC7"><sub>`Даждь`</sub></span><span style="color:#BF00FF"><sup>`Позбав`</sup></span><span style="font-size:40px;color:#FF0000">`බල`</span><sub style="color:#00FFFF">`ා`</sub>
 
 ---
@@ -40,6 +46,10 @@
 `awk: cmd. line:1: <span style="color:#FF0040">`기대`</span> unexpected token <span style="color:#FFE600">`Надеяться`</span> <span style="color:#00FF88">`अपेक्षा`</span> <span style="color:#FF6EC7">`Hope`</span> <span style="color:#BF00FF">`希望`</span> <span style="color:#39FF14">`Espoir`</span> <span style="color:#FFE600">`Ελπίδα`</span> <span style="color:#FF0040">`לקוות`</span> <span style="color:#00FFFF">`Umut`</span> <span style="color:#FF6EC7">`หวัง`</span> <span style="color:#BF00FF">`Ապարատություն`</span> <span style="color:#FFE600">`Тілек`</span> <span style="color:#FF0000">`Huomaa`</span> <span style="color:#39FF14">`נאַץ`</span> <span style="color:#FF8C00">`ຄວາມຫວັງ`</span> <span style="color:#00FFFF">`බලාපොක්ෂු`</span> <span style="color:#FF6EC7">`எதிர்பார்ப்பு`</span> <span style="color:#FFE600">`ఆశ`</span> <span style="color:#FF0040">`ਆਸ`</span> <span style="color:#00FF88">`આશા`</span> <span style="color:#BF00FF">`ಆಶೆ`</span> <span style="color:#FF6EC7">`പ്രതീക്ഷ`</span> <span style="color:#FFE600">`සිහින`</span>
 
 `BAILING OUT`
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=800&pause=200&color=39FF14&center=true&vCenter=true&repeat=true&width=600&height=25&lines=你为什么还在读;no_one_knows;خطأ_غير_معروف;エラーが発生しました;ошибка_неизвестна;มีอะไรผิดปกติ;something_broke" alt="" />
+</p>
 
 ---
 
@@ -66,6 +76,10 @@
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:FF0040,25:FFE600,50:BF00FF,75:00FFFF,100:39FF14&height=50&section=details&animation=rotateIn&text=CHAOS&fontSize=30&textColor=fff&fontAlign=50" />
+</p>
 
 ---
 
@@ -156,6 +170,10 @@
 
 <span style="color:#FF0000">`🔴`</span> <span style="color:#FFE600">`you`</span> <span style="color:#39FF14">`are`</span> <span style="color:#00FFFF">`reading`</span> <span style="color:#FF6EC7">`乱`</span> <span style="color:#BF00FF">`七八糟`</span> <span style="color:#FF0040">`的`</span> <span style="color:#00FF88">`things`</span> <span style="color:#FFE600">`but`</span> <span style="color:#FF0000">`why`</span> <span style="color:#39FF14">`tho`</span>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=16&duration=600&pause=300&color=FFE600&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&separator=%3E&lines=>_reading...;>_your_brain.exe_has_stopped;>_attempting_restart...;>_failed;>_formatting_C%3A%5Cbrain;>_0%25_complete;>_division_by_zero;>_NaN;>_undefined_is_not_a_function;>_stack_overflow;>_YOUR_FAULT" alt="" />
+</p>
+
 ```
 ╔════════════════════════════════════════════════════╗
 ║  `Уведомление`                                    ║
@@ -164,9 +182,9 @@
 ║  `แจ้งเตือน`  你读到了这里 `🔔`                      ║
 ║                                                    ║
 ║  `আপনি` `நீங்கள்` `ನೀವು` `మీరు` `നിങ്ങൾ`         ║
-║  `നി` `ତୁ` `તમે` `तुम्ही` `तुम` `ನೀ` `నువ్వు`     ║
+║  `നി` `ତୁ` `તમે` `तुम्ही` `तुम` `ನೀ` `నువ్వു`     ║
 ║  `நீ` `ඔබ` `你` `당신` `あなた` `Вы` `Вы` `Сен`    ║
-║  `நீங்கள்` `ඔයා` `ನೀನು` `ను` `നീ` `તમે`         ║
+║  `நீங்கள்` `ඔයා` `ನೀನು` `నു` `നீ` `તમ෇`         ║
 ║                                                    ║
 ║  以上全是"你" 用不同语言写了一遍                      ║
 ║  ` Але зачем? ` ` pero por qué? ` ` Но зачем? `    ║
@@ -190,12 +208,16 @@
 
 <span style="color:#BF00FF">`if`</span> <span style="color:#39FF14">`நீ`</span> <span style="color:#FFE600">`==`</span> <span style="color:#FF0040">`YOU`</span> <span style="color:#00FFFF">`&&`</span> <span style="color:#FF6EC7">`あなた`</span> <span style="color:#FF0000">`!=`</span> <span style="color:#00FF88">`null`</span> <span style="color:#BF00FF">`{`</span> <span style="color:#FFE600">`饮`</span> <span style="color:#FF0040">`کافِی`</span> <span style="color:#FF8C00">`☕`</span> <span style="color:#39FF14">`;`</span> <span style="color:#FF6EC7">`}`</span>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=20&duration=2000&pause=800&color=BF00FF&center=true&vCenter=true&repeat=true&width=550&height=35&lines=☕ coffee ☕ COFFEE ☕;coffee++;%E5%92%96%E5%95%A1%2B%2B;%EC%BB%A4%ED%94%BC%2B%2B;กาแฟ++;кофе++;காபி%2B%2B;☕☕☕☕☕" alt="" />
+</p>
+
 ```
  ┌─ 咖啡 Machine ──────────────────────────┐
  │  `กาแฟ`  `커피`  `coffee`  `caffè`  `kaffe`  `káva` │
  │  `kawa`  `kahvi`  `kohv`  `kafija`  `kavë`  `kafe`  │
  │  `qahwa`  `قهوة`  `ಕಾಫಿ`  `കാപ്പി`  `காபி`  `కాఫీ`  │
- │  `કાફી`  `ਕਾਫ਼ੀ`  `কফ`  `کافی`  `กาแฟ`  `કૉફી`  │
+ │  `કાફી`  `ਕਾਫ਼ੀ`  `কफ`  `کافی`  `กาแฟ`  `કૉફી`  │
  │                                           │
  │  > `在73种语言里叫"咖啡" 但 只有这一杯`    │
  │  > `ใน 73 ภาษา เรียกว่า กาแฟ`            │
@@ -264,6 +286,10 @@
 
 <h2><span style="color:#FF0040">`ج`</span> <span style="color:#FFE600">`د`</span> <span style="color:#39FF14">`ي`</span> <span style="color:#BF00FF">`د`</span> <span style="color:#00FFFF">`؟`</span> <span style="color:#FF6EC7">`？`</span> <span style="color:#FF8C00">`¿`</span> <span style="color:#FF0040">`?`</span> <span style="color:#00FF88">`⸮`</span> <span style="color:#FFE600">`፧`</span> <span style="color:#FF6EC7">`՞`</span> <span style="color:#39FF14">`؟`</span> <span style="color:#BF00FF">`არ`</span></h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&weight=400&size=12&duration=500&pause=100&color=FF6EC7&center=true&vCenter=true&repeat=true&width=700&height=20&lines=0x7F_0xDEAD_0xBEEF_0xCAFE_0xFACE_0xDEAD_0xBEEF_0xCAFE_0xFACE_0xDEAD_0xBEEF_0xCAFE_0xFACE;01001101_01100101_01101101_01101111_01110010_01111001;░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█;╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳" alt="" />
+</p>
+
 <span style="color:#FFE600">`القراءة`</span> <span style="color:#FF0040">` mutate`</span> <span style="color:#39FF14">` evolve`</span> <span style="color:#BF00FF">` devolve`</span> <span style="color:#00FFFF">` dissolve`</span> <span style="color:#FF6EC7">` resolve`</span> <span style="color:#FFE600">` revolve`</span> <span style="color:#FF0000">` absolve`</span>
 
 <span style="color:#00FFFF">`Тот`</span> <span style="color:#FFE600">`qui`</span> <span style="color:#FF0040">`продолжает`</span> <span style="color:#39FF14">`à`</span> <span style="color:#BF00FF">`lire`</span> <span style="color:#FF6EC7">`ceci`</span> <span style="color:#FFE600">`n'a`</span> <span style="color:#00FF88">`pas`</span> <span style="color:#FF0040">`de`</span> <span style="color:#FF0000">`but`</span> <span style="color:#39FF14">`mais`</span> <span style="color:#00FFFF">`il`</span> <span style="color:#FFE600">`continue`</span> <span style="color:#FF6EC7">`quand`</span> <span style="color:#BF00FF">`même`</span>
@@ -300,6 +326,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=11&duration=400&pause=50&color=FF8C00&center=true&vCenter=true&repeat=true&width=750&height=20&separator=│&lines=WARN│mem_corrupted│RETRY│FAIL│WARN│stack_smash│RETRY│FAIL│FATAL│heap_corrupt│RETRY│FAIL│WARN│page_fault│RETRY│FAIL│FATAL│kernel_panic│RETRY│FAIL│☠️│☠️│☠️" alt="" />
+</p>
+
 ```
 `loading` `load` `cargando` `chargement` `تحميل` `読み込み`
 `ಲೋಡ್` `ലോഡ്` `ஏற்றுதல்` `లోడ్` `පූරණය` `โหลด`
@@ -319,13 +349,6 @@ Loading has been `中断` `прервано` `отменено` `中止` `中断
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=000&title_color=39FF14&icon_color=FF0040&text_color=FFFFFF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=FF0040" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=000&stroke=FFE600&ring=FF0040&fire=39FF14&currStreakLabel=FFFFFF&sideNums=FFE600&sideLabels=FFFFFF&dates=FF6EC7&border_radius=10" width="47%" />
-</div>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" />
@@ -333,6 +356,13 @@ Loading has been `中断` `прервано` `отменено` `中止` `中断
     <img alt="🐍" src="https://raw.githubusercontent.com/dalaodeyitian/dalaodeyitian/output/github-snake-dark.svg" width="95%" />
   </picture>
 </p>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=000&title_color=39FF14&icon_color=FF0040&text_color=FFFFFF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=FF0040" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=000&stroke=FFE600&ring=FF0040&fire=39FF14&currStreakLabel=FFFFFF&sideNums=FFE600&sideLabels=FFFFFF&dates=FF6EC7&border_radius=10" width="47%" />
+</div>
 
 ---
 
