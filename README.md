@@ -1,6 +1,6 @@
-`[CRITICAL] ░▒▓█ BSoD ██ EXCEPTION 0x`𓂀`𓁹` DEAD `▒░▓█ KERNEL PANIC ▓▒░ NOT YOUR FAULT BUT ALSO KIND OF YOUR FAULT`
+`[CRITICAL] <span style="color:#FF0040">░▒▓█</span> BSoD <span style="color:#FFE600">██</span> EXCEPTION <span style="color:#39FF14">0x`𓂀`𓁹` DEAD</span> <span style="color:#FF6EC7">▒░▓█</span> KERNEL PANIC <span style="color:#FFE600">▓▒░</span> NOT YOUR FAULT BUT ALSO KIND OF YOUR FAULT`
 
-<p align="center"><code>░█▒▓ 存在`ПАМЯТЬ`لا`메모리`ความจำ`は`■■■ ERROR ░▒▓█ Buffer Overflow ▓▒░ Segfault at `ትንትነ` `การจำ` `සිහිය` `గుర్తింపు` `0xDEAD`</code></p>
+<p align="center"><code><span style="color:#FF0040">░█▒▓</span> <span style="color:#00FF88">存在</span><span style="color:#FFE600">`ПАМЯТЬ`</span><span style="color:#FF6EC7">لا</span><span style="color:#00FFFF">`메모리`</span><span style="color:#FF8C00">ความจำ</span><span style="color:#BF00FF">は</span><span style="color:#FF0000">■■■ ERROR</span> <span style="color:#39FF14">░▒▓█</span> <span style="color:#FFE600">Buffer Overflow</span> <span style="color:#FF0040">▓▒░</span> <span style="color:#00FFFF">Segfault</span> <span style="color:#FF6EC7">at</span> <span style="color:#BF00FF">`ትንትነ`</span> <span style="color:#39FF14">`การจำ`</span> <span style="color:#FF8C00">`සිහිය`</span> <span style="color:#FF0040">`గుర్తింపు`</span> <span style="color:#FFE600">`0xDEAD`</span></code></p>
 
 ```
 ████████████████████████████████████████████████████████
@@ -29,15 +29,15 @@
 
 ---
 
-<img src="https://img.shields.io/badge/💀-SYSTEM_CRASH-FF0000?style=for-the-badge&labelColor=000&logo=windows&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/💀-SYSTEM_CRASH-FF0000?style=for-the-badge&labelColor=000&logo=windows&logoColor=FF0000" /> <img src="https://img.shields.io/badge/⚠️-KERNEL_PANIC-FFE600?style=for-the-badge&labelColor=000" /> <img src="https://img.shields.io/badge/🔴-MEM_CORRUPTED-FF0040?style=for-the-badge&labelColor=000" />
 
-<sub>`पुनःआरंभ`</sub><sup>`Վերացում`</sup><span style="font-size:2px">`პირველი`</span><sub>`Даждь`</sub><sup>`Позбав`</sup><span style="font-size:40px">`බල`</span><sub>`ා`</sub>
+<span style="color:#FF0040"><sub>`पुनःआरंभ`</sub></span><span style="color:#FFE600"><sup>`Վերացում`</sup></span><span style="font-size:2px;color:#00FF88">`პირველი`</span><span style="color:#FF6EC7"><sub>`Даждь`</sub></span><span style="color:#BF00FF"><sup>`Позбав`</sup></span><span style="font-size:40px;color:#FF0000">`බල`</span><sub style="color:#00FFFF">`ා`</sub>
 
 ---
 
-## ╳╳╳
+<h1 align="center"><span style="color:#FF0040">╳</span><span style="color:#FFE600">╳</span><span style="color:#00FF88">╳</span></h1>
 
-`awk: cmd. line:1: `기대` unexpected token `Надеяться` `अपेक्षा` `Hope` `希望` `Espoir` `Ελπίδα` `לקוות` `Umut` `หวัง` `Ապարատություն` `Тілек` `Huomaa` `נאַץ` `ຄວາມຫວັງ` `බලාපොක්ෂු` `எதிர்பார்ப்பு` `ఆశ` `ਆਸ` `આશા` `ಆಶೆ` `പ്രതീക്ഷ` `සිහින`
+`awk: cmd. line:1: <span style="color:#FF0040">`기대`</span> unexpected token <span style="color:#FFE600">`Надеяться`</span> <span style="color:#00FF88">`अपेक्षा`</span> <span style="color:#FF6EC7">`Hope`</span> <span style="color:#BF00FF">`希望`</span> <span style="color:#39FF14">`Espoir`</span> <span style="color:#FFE600">`Ελπίδα`</span> <span style="color:#FF0040">`לקוות`</span> <span style="color:#00FFFF">`Umut`</span> <span style="color:#FF6EC7">`หวัง`</span> <span style="color:#BF00FF">`Ապարատություն`</span> <span style="color:#FFE600">`Тілек`</span> <span style="color:#FF0000">`Huomaa`</span> <span style="color:#39FF14">`נאַץ`</span> <span style="color:#FF8C00">`ຄວາມຫວັງ`</span> <span style="color:#00FFFF">`බලාපොක්ෂු`</span> <span style="color:#FF6EC7">`எதிர்பார்ப்பு`</span> <span style="color:#FFE600">`ఆశ`</span> <span style="color:#FF0040">`ਆਸ`</span> <span style="color:#00FF88">`આશા`</span> <span style="color:#BF00FF">`ಆಶೆ`</span> <span style="color:#FF6EC7">`പ്രതീക്ഷ`</span> <span style="color:#FFE600">`සිහින`</span>
 
 `BAILING OUT`
 
@@ -45,7 +45,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ `💀` CRASH DUMP `💀`                                        │
+│ <span style="color:#FF0000">💀</span> CRASH DUMP <span style="color:#FF0000">💀</span>                                        │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │ `تسلسل`    `последовательность`    `順序`                    │
@@ -70,63 +70,63 @@
 ---
 
 <div align="right">
-<sup>`นี่`</sup>
+<span style="color:#FF0040"><sup>`นี่`</sup></span>
 </div>
 <div align="center">
-<span style="font-size:28px">`คือ`</span>
+<span style="font-size:28px;color:#FFE600">`คือ`</span>
 </div>
 <div align="left">
-<sub>`อะไร`</sub>
+<span style="color:#00FF88"><sub>`อะไร`</sub></span>
 </div>
 <div align="right">
-<sup style="font-size:3px">`กัน`</sup>
+<span style="color:#BF00FF;font-size:3px"><sup>`กัน`</sup></span>
 </div>
 <div align="center">
-<span style="font-size:5px;color:#FF2A6D">`แน่`</span>
+<span style="font-size:5px;color:#FF6EC7">`แน่`</span>
 </div>
 <div align="left">
-`ไม่รู้เหมือนกัน`
+<span style="color:#39FF14">`ไม่รู้เหมือนกัน`</span>
 </div>
 <div align="right">
-`하지만`
+<span style="color:#FFE600">`하지만`</span>
 </div>
 <div align="center">
-`그래도`
+<span style="color:#FF0040">`그래도`</span>
 </div>
 <div align="left">
-<sup>`เขียน`</sup>
+<span style="color:#00FFFF"><sup>`เขียน`</sup></span>
 </div>
 <div align="right">
-<span style="font-size:50px">`อยู่`</span>
+<span style="font-size:50px;color:#FF0000">`อยู่`</span>
 </div>
 <div align="center">
-`여전히`
+<span style="color:#39FF14">`여전히`</span>
 </div>
 <div align="left">
-`ฉัน`
+<span style="color:#FF6EC7">`ฉัน`</span>
 </div>
 <div align="right">
-`나는`
+<span style="color:#FFE600">`나는`</span>
 </div>
 <div align="center">
-`私`
+<span style="color:#BF00FF">`私`</span>
 </div>
 <div align="left">
-<sub>`నేను`</sub>
+<span style="color:#00FFFF"><sub>`నేను`</sub></span>
 </div>
 <div align="right">
-`私は`
+<span style="color:#FF0040">`私は`</span>
 </div>
 <div align="center">
-<sup>`Сой`</sup>
+<span style="color:#FFE600"><sup>`Сой`</sup></span>
 </div>
 <div align="left">
-<span style="font-size:2px">` bilem`</span>
+<span style="font-size:2px;color:#39FF14">` bilem`</span>
 </div>
 
 ---
 
-## 死 `机` 中 `...` 请 `不` 要 `关` 闭 `此` 窗 `口`
+## <span style="color:#FF0000">死</span> <span style="color:#FF0040">`机`</span> <span style="color:#FFE600">中</span> <span style="color:#39FF14">`...`</span> <span style="color:#00FFFF">请</span> <span style="color:#BF00FF">`不`</span> <span style="color:#FF6EC7">要</span> <span style="color:#FF0000">`关`</span> <span style="color:#FFE600">闭</span> <span style="color:#00FF88">`此`</span> <span style="color:#FF0040">窗</span> <span style="color:#39FF14">`口`</span>
 
 ```c
 /* ══ MEMORY.DMP ══
@@ -142,7 +142,7 @@
    
    Stack Trace:
    0: `тут` ← `ここ` ← `here` ← `هنا` ← `ү` ← `die` ← `←←`
-   1: `กลับ` to `başlangıç` but `ಪ್ರಾರಂಭ` is `ದು` `অনুপস` `ఉంటుంది`
+   1: `กลับ` to `başlangıç` but `ಪ್ರಾರಂಭ` is `ದು` `अनुपस` `ఉంటుంది`
    2: `النهاية` was `අ` `ත්` `ය` `න` `්` `ත` `ම` but `หา` not `môže`
    3: `岩` `石` `石` `石` `石` `石` `石` `石` `岩` ← なぜこれがある？
    
@@ -154,7 +154,7 @@
 
 `超`时``连`接`中`断``
 
-`🔴` `you` `are` `reading` `乱` `七八糟` `的` `things` `but` `why` `tho`
+<span style="color:#FF0000">`🔴`</span> <span style="color:#FFE600">`you`</span> <span style="color:#39FF14">`are`</span> <span style="color:#00FFFF">`reading`</span> <span style="color:#FF6EC7">`乱`</span> <span style="color:#BF00FF">`七八糟`</span> <span style="color:#FF0040">`的`</span> <span style="color:#00FF88">`things`</span> <span style="color:#FFE600">`but`</span> <span style="color:#FF0000">`why`</span> <span style="color:#39FF14">`tho`</span>
 
 ```
 ╔════════════════════════════════════════════════════╗
@@ -180,15 +180,15 @@
 
 ---
 
-<sub>`写入中</sub><sup>`Scrivendo`</sup><span style="font-size:2px">`Escribiendo`</span><sub>`Píšu`</sub><sup>`Skriver`</sup><span style="font-size:7px">`Kirjutan`</span><sub>`Píšem`</sub><sup>`Schrijf`</sup><span style="font-size:33px">`의`</span><sub>`メモリ`</sub><sup>`ラ`</sup><span style="font-size:1px">` leaked `</span>
+<span style="color:#FF0040"><sub>`写入中`</sub></span><span style="color:#FFE600"><sup>`Scrivendo`</sup></span><span style="font-size:2px;color:#39FF14">`Escribiendo`</span><span style="color:#BF00FF"><sub>`Píšu`</sub></span><span style="color:#00FFFF"><sup>`Skriver`</sup></span><span style="font-size:7px;color:#FF6EC7">`Kirjutan`</span><span style="color:#FFE600"><sub>`Píšem`</sub></span><span style="color:#39FF14"><sup>`Schrijf`</sup></span><span style="font-size:33px;color:#FF0000">`의`</span><span style="color:#00FFFF"><sub>`メモリ`</sub></span><span style="color:#BF00FF"><sup>`ラ`</sup></span><span style="font-size:1px;color:#FFE600">` leaked `</span>
 
 ---
 
-## `紊乱` 的 `Ĥаос` `混沌` `혼돈` `凌乱` `มัวหมอง` `Розлад`
+<h2><span style="color:#FF0040">`紊乱`</span> <span style="color:#00FFFF">的</span> <span style="color:#FFE600">`Ĥаос`</span> <span style="color:#BF00FF">`混沌`</span> <span style="color:#FF6EC7">`혼돈`</span> <span style="color:#39FF14">`凌乱`</span> <span style="color:#FF8C00">`มัวหมอง`</span> <span style="color:#00FF88">`Розлад`</span></h2>
 
-<sup>`Ċaos`</sup> <span style="font-size:40px">`是`</span> <sub>`∀`</sub> <sup>`ل`</sup> <span style="font-size:3px">`ร`</span> <sub>`т`</sub> <sup>`你`</sup> <span style="font-size:22px">`ண`</span> <sub>`ດ`</sub> <sup>`р`</sup> <span style="font-size:6px">`ย`</span> <sub>`ય`</sub> <sup>`ی`</sup> <span style="font-size:18px">`ு`</span>
+<span style="color:#FF0040"><sup>`Ċaos`</sup></span> <span style="color:#FFE600;font-size:40px">`是`</span> <span style="color:#00FFFF"><sub>`∀`</sub></span> <span style="color:#FF6EC7"><sup>`ل`</sup></span> <span style="color:#39FF14;font-size:3px">`ร`</span> <span style="color:#BF00FF"><sub>`т`</sub></span> <span style="color:#FF0040"><sup>`你`</sup></span> <span style="color:#00FF88;font-size:22px">`ண`</span> <span style="color:#FFE600"><sub>`ດ`</sub></span> <span style="color:#FF6EC7"><sup>`р`</sup></span> <span style="color:#FF0000;font-size:6px">`ย`</span> <span style="color:#00FFFF"><sub>`ય`</sub></span> <span style="color:#39FF14"><sup>`ی`</sup></span> <span style="color:#FF8C00;font-size:18px">`ு`</span>
 
-`if` `நீ` `==` `YOU` `&&` `あなた` `!=` `null` `{` `饮` `کافِی` `☕` `;` `}`
+<span style="color:#BF00FF">`if`</span> <span style="color:#39FF14">`நீ`</span> <span style="color:#FFE600">`==`</span> <span style="color:#FF0040">`YOU`</span> <span style="color:#00FFFF">`&&`</span> <span style="color:#FF6EC7">`あなた`</span> <span style="color:#FF0000">`!=`</span> <span style="color:#00FF88">`null`</span> <span style="color:#BF00FF">`{`</span> <span style="color:#FFE600">`饮`</span> <span style="color:#FF0040">`کافِی`</span> <span style="color:#FF8C00">`☕`</span> <span style="color:#39FF14">`;`</span> <span style="color:#FF6EC7">`}`</span>
 
 ```
  ┌─ 咖啡 Machine ──────────────────────────┐
@@ -210,38 +210,38 @@
 
 ---
 
-<span style="font-size:28px">**`码代写在`**</span>
-<span style="font-size:4px">`குறியீடு எழுதுங்கள்`</span>
-<span style="font-size:36px">**`코드를 작성`**</span>
-<span style="font-size:7px">`ಕೋಡ್ ಬರೆಯಿರಿ`</span>
-<span style="font-size:18px">**`รหัสเขียน`**</span>
-<span style="font-size:3px">`নকল লেখ`</span>
-<span style="font-size:42px">**`Код`**</span>
-<span style="font-size:6px">`コード`</span>
-<span style="font-size:24px">**`код`**</span>
-<span style="font-size:9px">`කේතය ලියන්න`</span>
-<span style="font-size:14px">**`koodee qor`**</span>
-<span style="font-size:2px">`Трест`</span>
+<span style="font-size:28px;color:#FF0040">**`码代写在`**</span>
+<span style="font-size:4px;color:#39FF14">`குறியீடு எழுதுங்கள்`</span>
+<span style="font-size:36px;color:#FFE600">**`코드를 작성`**</span>
+<span style="font-size:7px;color:#BF00FF">`ಕೋಡ್ ಬರೆಯಿರಿ`</span>
+<span style="font-size:18px;color:#00FFFF">**`รหัสเขียน`**</span>
+<span style="font-size:3px;color:#FF6EC7">`নকল লেখ`</span>
+<span style="font-size:42px;color:#FF8C00">**`Код`**</span>
+<span style="font-size:6px;color:#00FF88">`コード`</span>
+<span style="font-size:24px;color:#FF0040">**`код`**</span>
+<span style="font-size:9px;color:#FFE600">`කේතය ලියන්න`</span>
+<span style="font-size:14px;color:#BF00FF">**`koodee qor`**</span>
+<span style="font-size:2px;color:#39FF14">`Трест`</span>
 
 ---
 
 <details>
-<summary>`▶`  `₣əlíçítåçíõñs`  `你打开了 ` `おめでとう`</summary>
+<summary>`▶`  <span style="color:#FFE600">`₣əlíçítåçíõñs`</span>  <span style="color:#FF0040">`你打开了 `</span> <span style="color:#39FF14">`おめでとう`</span></summary>
 
 <details>
-<summary>`▶▶`  ` maintenant ferme-le ` `닫아` `ปิด`</summary>
+<summary>`▶▶`  <span style="color:#BF00FF">` maintenant ferme-le `</span> <span style="color:#FFE600">`닫아`</span> <span style="color:#00FFFF">`ปิด`</span></summary>
 
 <details>
-<summary>`▶▶▶`  `sērīōsli yẹ paárẹ`  `真的 真的 别 ` `本当に`</summary>
+<summary>`▶▶▶`  <span style="color:#FF6EC7">`sērīōsli yẹ paárẹ`</span>  <span style="color:#FF0000">`真的 真的 别 `</span> <span style="color:#39FF14">`本当に`</span></summary>
 
 <details>
-<summary>`▶▶▶▶`  `kpalé`  `ಮುಚ್ಚಿರಿ`  `You asked for this`</summary>
+<summary>`▶▶▶▶`  <span style="color:#00FF88">`kpalé`</span>  <span style="color:#FFE600">`ಮುಚ್ಚಿರಿ`</span>  <span style="color:#FF0040">`You asked for this`</span></summary>
 
 ```
 ═════════════════════════════════════════════
 `กระบวนการทำลายตัวเองกำลังเริ่มต้นขึ้น`
 ` самоликвидация инициирована `
-`ಸ್ವಯಂ ನಾಶ ಪ್ರಕ್రಿಯೆ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ`
+`ಸ್ವಯಂ ನಾಶ ಪ್ರಕ್ರಿಯೆ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ`
 `స్వీయ విధ్వంసన ప్రక్రియ ప్రారంభమైంది`
 ` சுய அழிப்பு செயல்முறை தொடங்குகிறது`
 ` স্ব-ধ্বংস প্রক্রিয়া শুরু হচ্ছে`
@@ -262,45 +262,48 @@
 
 ---
 
-## `ج` `د` `ي` `د` `؟` `？` `¿` `?` `⸮` `፧` `՞` `؟` `არ`
+<h2><span style="color:#FF0040">`ج`</span> <span style="color:#FFE600">`د`</span> <span style="color:#39FF14">`ي`</span> <span style="color:#BF00FF">`د`</span> <span style="color:#00FFFF">`؟`</span> <span style="color:#FF6EC7">`？`</span> <span style="color:#FF8C00">`¿`</span> <span style="color:#FF0040">`?`</span> <span style="color:#00FF88">`⸮`</span> <span style="color:#FFE600">`፧`</span> <span style="color:#FF6EC7">`՞`</span> <span style="color:#39FF14">`؟`</span> <span style="color:#BF00FF">`არ`</span></h2>
 
-`القراءة` ` mutate` ` evolve` ` devolve` ` dissolve` ` resolve` ` revolve` ` absolve`
+<span style="color:#FFE600">`القراءة`</span> <span style="color:#FF0040">` mutate`</span> <span style="color:#39FF14">` evolve`</span> <span style="color:#BF00FF">` devolve`</span> <span style="color:#00FFFF">` dissolve`</span> <span style="color:#FF6EC7">` resolve`</span> <span style="color:#FFE600">` revolve`</span> <span style="color:#FF0000">` absolve`</span>
 
-`Тот` `qui` `продолжает` `à` `lire` `ceci` `n'a` `pas` `de` `but` `mais` `il` `continue` `quand` `même`
+<span style="color:#00FFFF">`Тот`</span> <span style="color:#FFE600">`qui`</span> <span style="color:#FF0040">`продолжает`</span> <span style="color:#39FF14">`à`</span> <span style="color:#BF00FF">`lire`</span> <span style="color:#FF6EC7">`ceci`</span> <span style="color:#FFE600">`n'a`</span> <span style="color:#00FF88">`pas`</span> <span style="color:#FF0040">`de`</span> <span style="color:#FF0000">`but`</span> <span style="color:#39FF14">`mais`</span> <span style="color:#00FFFF">`il`</span> <span style="color:#FFE600">`continue`</span> <span style="color:#FF6EC7">`quand`</span> <span style="color:#BF00FF">`même`</span>
 
-`ยัง` `คง` `อ่าน` `อยู่` `ใช่` `ไหม` `ทำไม` `ไม่` `หยุด` `เพราะ` `มัน` `มี` `อะไร` `บาง` `อย่าง`
+<span style="color:#FF0040">`ยัง`</span> <span style="color:#FFE600">`คง`</span> <span style="color:#39FF14">`อ่าน`</span> <span style="color:#00FFFF">`อยู่`</span> <span style="color:#BF00FF">`ใช่`</span> <span style="color:#FF6EC7">`ไหม`</span> <span style="color:#FFE600">`ทำไม`</span> <span style="color:#FF0040">`ไม่`</span> <span style="color:#00FF88">`หยุด`</span> <span style="color:#FF0000">`เพราะ`</span> <span style="color:#39FF14">`มัน`</span> <span style="color:#00FFFF">`มี`</span> <span style="color:#FFE600">`อะไร`</span> <span style="color:#FF6EC7">`บาง`</span> <span style="color:#BF00FF">`อย่าง`</span>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/语言-Langues-Lenguas-言語-모든-ทุกภาษา-05D9E8?style=flat-square&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/逻辑-LOGIC_Overflow-FF2A6D?style=flat-square&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/崩溃-CRASHED-5B2C9E?style=flat-square&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/意义-MEANING_NOT_FOUND-0D0221?style=flat-square&labelColor=333" />
-<img src="https://img.shields.io/badge/状态-UNSTABLE-FF0000?style=flat-square&labelColor=000&logo=windows&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/语言-Langues-Lenguas-言語-모든-ทุกภาษา-39FF14?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/逻辑-LOGIC_Overflow-FF0040?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/崩溃-CRASHED-FFE600?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/意义-MEANING_NOT_FOUND-BF00FF?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/状态-UNSTABLE-FF0000?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/堆栈-STACK_SMASHED-FF6EC7?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/堆溢出-HEAP_CORRUPTED-00FFFF?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/段错误-SEGFAULT-FF8C00?style=flat-square&labelColor=000&color=FF8C00" />
 
 </div>
 
 ---
 
-`A: Pourquoi tu écris tout ça?`
-`B: 万 事万物皆有因`
-`A: But this has no cause`
-`B: 本当に？ あなたは確信していますか`
-`A: Я не уверен`
-`B: Ааа вот и разгадка` 💡
-`A: Что разгадка`
-`B: `未完
-`A: 未完？`
-`B: `대답 없음
+<span style="color:#00FFFF">`A: Pourquoi tu écris tout ça?`</span>
+<span style="color:#FF0040">`B: 万 事万物皆有因`</span>
+<span style="color:#39FF14">`A: But this has no cause`</span>
+<span style="color:#FFE600">`B: 本当に？ あなたは確信していますか`</span>
+<span style="color:#BF00FF">`A: Я не уверен`</span>
+<span style="color:#FF6EC7">`B: Ааа вот и разгадка`</span> <span style="font-size:28px">💡</span>
+<span style="color:#00FFFF">`A: Что разгадка`</span>
+<span style="color:#FF0040">`B: `</span><span style="color:#FF0000;font-size:40px">`未完`</span>
+<span style="color:#39FF14">`A: 未完？`</span>
+<span style="color:#FFE600">`B: `</span><span style="color:#FF0000;font-size:2px">`대답 없음`</span>
 
 ---
 
 ```
 `loading` `load` `cargando` `chargement` `تحميل` `読み込み`
 `ಲೋಡ್` `ലോഡ്` `ஏற்றுதல்` `లోడ్` `පූරණය` `โหลด`
-`ກຳ​ລັງ​ໂຫຼດ` `բ𝐚я` `ƥaģyлaйz` `ข้อมูล`
+`ກຳ​ລັງ​ໂຫຼດ` `բ𝐚я` `ƥaɣyлaйz` `ข้อมูล`
 
 [███████████████████████████████░░░] 87%
 
@@ -317,8 +320,8 @@ Loading has been `中断` `прервано` `отменено` `中止` `中断
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=5B2C9E" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=0D0221&stroke=5B2C9E&ring=FF2A6D&fire=05D9E8&currStreakLabel=D1F7FF&sideNums=05D9E8&sideLabels=D1F7FF&dates=FF2A6D&border_radius=10" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dalaodeyitian&show_icons=true&theme=chartburst-dark&hide_border=false&bg_color=000&title_color=39FF14&icon_color=FF0040&text_color=FFFFFF&include_all_commits=true&count_private=true&line_height=28&border_radius=10&border_color=FF0040" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dalaodeyitian&theme=highcontrast&hide_border=false&background=000&stroke=FFE600&ring=FF0040&fire=39FF14&currStreakLabel=FFFFFF&sideNums=FFE600&sideLabels=FFFFFF&dates=FF6EC7&border_radius=10" width="47%" />
 </div>
 
 ---
@@ -335,23 +338,23 @@ Loading has been `中断` `прервано` `отменено` `中止` `中断
 
 <div align="center">
 <pre>
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░░ `dalaodeyitian` ░░ `████` ░░ `不停歇` ░░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░░ `code` ░░ `কফ़` ░░ `☕` ░░ ` chaos` ░░
- ░░ `कोड` ░░ `কোড` ░░ `Код` ░░ `คอด` ░░
- ░░ `код` ░░ `コード` ░░ `코드` ░░ `ရောင်း` ░░
- ░░ `จะหยุดไม่ได้` ░░ `ບໍ່ສາມາດຢຸດ` ░░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ <span style="color:#FF0040">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>
+ <span style="color:#FFE600">░░ `dalaodeyitian` ░░ `████` ░░ `不停歇` ░░</span>
+ <span style="color:#00FF88">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>
+ <span style="color:#BF00FF">░░ `code` ░░ `কফ़` ░░ `☕` ░░ ` chaos` ░░</span>
+ <span style="color:#00FFFF">░░ `कोड` ░░ `কোড` ░░ `Код` ░░ `คอด` ░░</span>
+ <span style="color:#FF6EC7">░░ `код` ░░ `コード` ░░ `코드` ░░ `ရောင်း` ░░</span>
+ <span style="color:#39FF14">░░ `จะหยุดไม่ได้` ░░ `ບໍ່ສາມາດຢຸດ` ░░</span>
+ <span style="color:#FF8C00">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>
 </pre>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=1500&color=FF2A6D&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=panic%3A+runtime+error%3A+invalid+memory+address;fatal%3A+cannot+find+%22meaning%22+in+any+language;rebooting+in+∞+seconds...;reboot+failed.+try+reading+this+README+again" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=1500&color=FF0040&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=panic%3A+runtime+error%3A+invalid+memory+address;fatal%3A+cannot+find+%22meaning%22+in+any+language;rebooting+in+∞+seconds...;reboot+failed.+try+reading+this+README+again" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF2A6D,50:5B2C9E,75:0F084B,100:0D0221&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FFE600,50:39FF14,75:FF6EC7,100:BF00FF&height=80&section=footer" />
 </p>
 
-`© ░▓█ ╳╳╳ dalaodeyitian ─── `全ての権利破損` ─── `Tüm hakları çöktü` ─── `Oups crash` ░▓▒░ v∞.π.√-1`
+<span style="color:#FF0040">`© ░▓█ ╳╳╳ dalaodeyitian ─── `</span><span style="color:#FFE600">`全ての権利破損`</span><span style="color:#39FF14">` ─── `</span><span style="color:#BF00FF">`Tüm hakları çöktü`</span><span style="color:#00FFFF">` ─── `</span><span style="color:#FF6EC7">`Oups crash`</span><span style="color:#FFE600">` ░▓▒░ v∞.π.√-1`</span>
